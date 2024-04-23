@@ -141,6 +141,12 @@ En este repositorio se encuentran todos los notebooks y archivos necesarios para
     <a href="/">Notebook</a>.
     <p>Con subplots se puede trabajar en un arreglo de gráficas a las cuales se accede a través de los índices.</p>
   </details>
+  <details>
+    <summary>🟢Leyendas, etiquetas, títulos, tamaño</summary>
+    <a href="/">Notebook</a>.
+    <p>Para dar contexto a nuestros gráficos necesitamos usar títulos, leyendas, tamaño o etiquetas, para que nuestra gráfica tenga un contexto más amplio.</p>
+  </details>
+  
 </details>
 
 <br>
