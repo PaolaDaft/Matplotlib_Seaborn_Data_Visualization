@@ -146,6 +146,11 @@ En este repositorio se encuentran todos los notebooks y archivos necesarios para
     <a href="/">Notebook</a>.
     <p>Para dar contexto a nuestros gráficos necesitamos usar títulos, leyendas, tamaño o etiquetas, para que nuestra gráfica tenga un contexto más amplio.</p>
   </details>
+  <details>
+    <summary>🟢Colores y estilos</summary>
+    <a href="/">Notebook</a>.
+    <p>Podemos personalizar mejor nuestros gráficos con diferentes colores y estilos, así, se entenderá mucho mejor nuestras gráficas.</p>
+  </details>
   
 </details>
 
