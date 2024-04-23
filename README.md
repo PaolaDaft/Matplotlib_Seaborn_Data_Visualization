@@ -98,6 +98,49 @@ En este repositorio se encuentran todos los notebooks y archivos necesarios para
       <li>Index(No. de gráfico)</li>
     </ul>
   </details>
+  <details>
+    <summary>🟢Método orientado a objetos</summary>
+    <a href="/">Notebook</a>.
+    <br>
+    Hay distintas maneras de hacer gráficas dentro de Matplotlib, ya vimos pyplot; sin embargo, es muy complicado personalizarla y entrar a ciertos parámetros. Por ello, existe el método orientado a objetos.
+    <br>
+    Un objeto define una figura, esa figura es un lienzo en el cual podemos introducir diferentes grá ficas(axes), de las cuales cada una posee sus propios ejes(axis).
+    <br>
+    La figura representa el todo, dentro de ella vamos a configurar gráficas las cuales contienen diferentes ejes.
+    <br>Es un poco más complicado, pero en el mismo gráfico podemos personalizarlo mucho mejor.
+    <br></br>
+    Parámetros de axes:
+    <ul>
+      <li>Pos. Eje x</li>
+      <li>Pos. Eje y</li>
+      <li>Size graph eje x</li>
+      <li>Size graph eje y</li>
+    </ul>
+    <strong>Diferencias entre Pyplot y Object Oriented </strong>
+    <table>
+      <tr>
+        <th>Pyplot</th>
+        <th>Object Oriented</th>
+      </tr>
+      <tr>
+        <td>Rápido</td>
+        <td>Mayor personalización</td>
+      </tr>
+      <tr>
+        <td>Fácil</td>
+        <td>Más código</td>
+      </tr>
+      <tr>
+        <td>Una sola figura</td>
+        <td>Más amigable a múltiples diagramas</td>
+      </tr>
+    </table>
+  </details>
+  <details>
+    <summary>🟢Subplots</summary>
+    <a href="/">Notebook</a>.
+    <p>Con subplots se puede trabajar en un arreglo de gráficas a las cuales se accede a través de los índices.</p>
+  </details>
 </details>
 
 <br>
