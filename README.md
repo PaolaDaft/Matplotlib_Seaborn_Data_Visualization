@@ -161,11 +161,40 @@ En este repositorio se encuentran todos los notebooks y archivos necesarios para
     <a href="/">Notebook</a>.
     <p>Existen otros tipos de gráficos que Matplotlib nos proporciona para ser mucho más certeros en nuestros análisis.</p>
   </details> 
-  
 </details>
 
 <br>
 <details>
   <summary><strong>📈Seaborn</strong></summary>
-  <a href="/"> Documentación de Seaborn</a>
+  <a href="https://seaborn.pydata.org/tutorial/function_overview.html"> Documentación de Seaborn</a>
+  <p>Seaborn es una librería construida sobre Matplotlib, por lo que hereda todas las bondades de la misma. Fue escrita por Michael Waskom y está integrada para estructuras de Pandas por lo que está optimizada para funcionar con DataFrames.</p>
+  <h3>Ventajas de Seaborn</h3>
+  <p>Seaborn tiene diferentes ventajas y entre ellas encuentras principalmente:</p>
+  <ul>
+    <li>Tiene una gran velocidad</li>
+    <li>Facilidad para escribir código</li>
+    <li>Altamente customizable entre gráficas y visualizaciones</li>
+  </ul>
+  <strong>Estructura Básica de Seaborn</strong>
+  <pre><code>sns.Tipo de Grafica(
+      data='Dataset',
+      x='Data en el eje x',
+      y='Data en el eje y',
+      hue='Variable de agrupamiento')
+  </code></pre>
+  <h3>Tipos de Gráficas que tiene Seaborn</h3>
+  <p>Seaborn ofrece ciertas características principales para problemas específicos de visualización de datos:</p>
+  <ul>
+    <li>Diagramas o gráficas relacionables</li>
+    <li>Distribución de datos</li>
+    <li>Graficar variables categóricas</li>
+  </ul>
+
+  Por ejemplo:
+
+    Relplot (relacional): scatterplot, lineplot.
+    Displot (distribuciones): histplot, kdeplot, ecdfplot, rugplot.
+    Catplot (categorica): stripplot, swamplot, boxplot, violinplot, pointplot, barplot.
+
+
 </details>
