@@ -151,7 +151,11 @@ En este repositorio se encuentran todos los notebooks y archivos necesarios para
     <a href="/">Notebook</a>.
     <p>Podemos personalizar mejor nuestros gráficos con diferentes colores y estilos, así, se entenderá mucho mejor nuestras gráficas.</p>
   </details>
-  
+  <details>
+    <summary>🟢Bar Plot</summary>
+    <a href="/">Notebook</a>.
+    <p>El gráfico de barras nos permite graficar variables categóricas, es decir, variables de texto, lo que es muy importante en el mundo de la ciencia de datos y Matplotlib ofrece ciertas características que nos facilita la vida en cuanto a graficar este tipo de variables..</p>
+  </details>  
 </details>
 
 <br>
