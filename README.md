@@ -4,6 +4,7 @@ En este repositorio se encuentran todos los notebooks y archivos necesarios para
 <details>
   <summary><strong>📉Matplotlib</strong></summary>
   <a href="https://matplotlib.org/stable/plot_types/basic/plot.html#sphx-glr-plot-types-basic-plot-py">Documentación de Matplotlib</a>
+  <p>Esta librería esta escrita sobre Python, emula los comandos de Matlab y usa Numpy.</p>
   <details>
     <summary>🟢Pyplot básico</summary>
     Pyplot es una herramienta que tiene Matplotlib para ejecutar gráficas de manera sencilla. <a href="">Véamos cómo puedes lograrlo</a>.
