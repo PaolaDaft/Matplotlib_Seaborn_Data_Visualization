@@ -234,6 +234,10 @@ También se utiliza en la ciencia de datos orientada hacia el machine learning o
     <a href="/">Notebook</a>.
     <p>Seaborn tiene una gran variedad de gráficos, pero también tiene ciertos parámetros para cada gráfico, vamos a ver cuáles son los más comunes:</p>
   </details>
+  <details>
+    <summary>Distribuciones</summary>
+    <p>Seaborn ofrece algunas gráficas u opciones que te permiten trabajar con distribuciones orientadas a tipos de datos numéricos. Veamos como puedes lograrlo utilizando <a href="/">código</a>.</p>
+  </details>
 
 
 </details>
