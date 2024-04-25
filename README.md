@@ -218,6 +218,17 @@ También se utiliza en la ciencia de datos orientada hacia el machine learning o
     Relplot (relacional): scatterplot, lineplot.
     Displot (distribuciones): histplot, kdeplot, ecdfplot, rugplot.
     Catplot (categorica): stripplot, swamplot, boxplot, violinplot, pointplot, barplot.
+  <details>
+    <summary>🟢Set </summary>
+    <a href="/">Notebook</a>.
+    <p>Set es un método de Seaborn que permite configurar el estilo, fuente y color de las gráficas.</p>
+    <strong>¿Qué necesitas saber al usar Set?</strong>
+    <ul>
+      <li>Este parámetro afecta a todas las gráficas que creamos, incluidas las que no usan Seaborn.</li>
+      <li>Podemos resetear los valores utilizando el método reset_orig.</li>
+      <li>Este parámetro es un atajo de set_theme, que es el recomendado según la documentación.</li>
+    </ul>
+  </details>
 
 
 </details>
