@@ -229,6 +229,11 @@ También se utiliza en la ciencia de datos orientada hacia el machine learning o
       <li>Este parámetro es un atajo de set_theme, que es el recomendado según la documentación.</li>
     </ul>
   </details>
+  <details>
+    <summary>Parámetros más usados con Seaborn</summary>
+    <a href="/">Notebook</a>.
+    <p>Seaborn tiene una gran variedad de gráficos, pero también tiene ciertos parámetros para cada gráfico, vamos a ver cuáles son los más comunes:</p>
+  </details>
 
 
 </details>
