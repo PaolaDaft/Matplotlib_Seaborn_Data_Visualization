@@ -242,6 +242,11 @@ También se utiliza en la ciencia de datos orientada hacia el machine learning o
     <summary>Categóricos</summary>
     <p>Seaborn ofrece diferentes gráficos para graficar datos categóricos o variables de texto. A continuación verás el <a>código</a> que podrás usar para gráficar este tipo de datos.</p>
   </details>
+  <details>
+    <summary>Relation</summary>
+    <a href="/">Notebook</a>.
+    <p>Seaborn maneja los gráficos de relación entre distintas variables numéricas para hacer visualizaciones. Veamos los distintos gráficos que tiene Seaborn para trabajar este tipo de relaciones.</p>
+  </details>
 
 
 </details>
