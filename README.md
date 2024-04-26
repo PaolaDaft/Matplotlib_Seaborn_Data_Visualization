@@ -252,6 +252,11 @@ También se utiliza en la ciencia de datos orientada hacia el machine learning o
     <a href="/">Notebook</a>.
     <p>Jointplot y Pairplot son funcionalidades de Seaborn, porque con un solo comando se puede generar varios tipos de gráficos.</p>
   </details>
+  <details>
+    <summary>Heatmap</summary>
+    <a href="/">Notebook</a>.
+    <p>Heatmap es un tipo de gráfico enfocado a una estructura matricial. Heatmap correlaciona todas las variables numéricas del dataset.</p>
+  </details>
 
 
 </details>
