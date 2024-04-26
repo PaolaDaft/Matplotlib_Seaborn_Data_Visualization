@@ -238,6 +238,10 @@ También se utiliza en la ciencia de datos orientada hacia el machine learning o
     <summary>Distribuciones</summary>
     <p>Seaborn ofrece algunas gráficas u opciones que te permiten trabajar con distribuciones orientadas a tipos de datos numéricos. Veamos como puedes lograrlo utilizando <a href="/">código</a>.</p>
   </details>
+  <details>
+    <summary>Categóricos</summary>
+    <p>Seaborn ofrece diferentes gráficos para graficar datos categóricos o variables de texto. A continuación verás el <a>código</a> que podrás usar para gráficar este tipo de datos.</p>
+  </details>
 
 
 </details>
