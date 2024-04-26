@@ -247,6 +247,11 @@ También se utiliza en la ciencia de datos orientada hacia el machine learning o
     <a href="/">Notebook</a>.
     <p>Seaborn maneja los gráficos de relación entre distintas variables numéricas para hacer visualizaciones. Veamos los distintos gráficos que tiene Seaborn para trabajar este tipo de relaciones.</p>
   </details>
+  <details>
+    <summary>Jointplot y Pairplot</summary>
+    <a href="/">Notebook</a>.
+    <p>Jointplot y Pairplot son funcionalidades de Seaborn, porque con un solo comando se puede generar varios tipos de gráficos.</p>
+  </details>
 
 
 </details>
